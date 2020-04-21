@@ -23,7 +23,7 @@ The content loss only uses a single deep layer, but the style loss as defined by
 
 <p align='center'><img src=./images/sloss1.png></p>
 
-The original paper was implemented using VGG-19 pretrained on imagenet here I shall implement the same using PyTorch. VGG-19 model architecture is shown below.
+<div align='center'>The original paper was implemented using VGG-19 pretrained on imagenet here I shall implement the same using PyTorch. VGG-19 model architecture is shown below.</div>
 
 <p align='center'><img src=./images/VGG-19.png></p>
 
