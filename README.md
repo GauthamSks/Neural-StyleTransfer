@@ -26,3 +26,9 @@ The content loss only uses a single deep layer, but the style loss as defined by
 The original paper was implemented using VGG-19 pretrained on imagenet here I shall implement the same using PyTorch. VGG-19 model architecture is shown below.
 
 <p align='center'><img src=./images/VGG-19.png></p>
+
+
+## Credits
+- <a href="https://github.com/udacity/deep-learning-v2-pytorch">Udacity
+Deep-learning-v2-pytorch</a>
+- <a href="https://www.amazon.in/Deep-Learning-Python-Francois-Chollet/dp/1617294438">Deep Learning with Python by François Chollet</a>
